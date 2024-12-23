@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://alii.mra.my.id" target="_blank">
+        <img src="[https://avatars.githubusercontent.com/u/154661557?s=400&u=ad2d933066154c9da791df2b210f0dead07a8c3a&v=4](https://media.licdn.com/dms/image/v2/D5603AQGb0LvAycwMsA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723907823614?e=1740614400&v=beta&t=4uWgNLPhL23nVl2Vy6uuvUcBJTii39NIqba4R3RLsRU)" width="80" style="border-radius: 50%;" alt="Ali Logo">
+    </a>
+</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
